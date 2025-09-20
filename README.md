@@ -1,6 +1,6 @@
 # 🍅 Tomatoes Quality Detection
 
-A machine learning + IoT project to detect fresh vs rotten tomatoes using **ESP32**, **RGB sensor**, **MQ135 gas sensor**, and **Streamlit** for visualization.
+A machine learning + IoT project to detect fresh vs rotten tomatoes using **Raspberry Pi**and **Streamlit** for visualization.
 
 ## 🚀 Tech Stack
 - **Python 3.10+**
@@ -15,3 +15,4 @@ cd tomatoes
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
