@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```streamlit run app.py``` for web-app
 ```python3 tomatoes.py ``` for model
 
-🛠 Features
+## 🛠 Features
 
 Detects rotten vs fresh tomatoes
 
@@ -29,9 +29,10 @@ Visualizes sensor data in real time
 
 Lightweight and Raspberry Pi compatible
 
-👤 Author
+## 👤 Author
 
 Ahmed Khalfan
+
 
 
 
